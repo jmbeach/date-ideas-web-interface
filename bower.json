@@ -1,0 +1,20 @@
+{
+  "name": "template",
+  "version": "0.0.0",
+  "authors": [
+    "jared.beach"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": ""
+}
